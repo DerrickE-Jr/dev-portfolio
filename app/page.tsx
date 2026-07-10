@@ -1,7 +1,9 @@
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="container">"
       <h1>Dev Portfolio</h1>
+
+      <p>Full-Stack Developer building modern software solutions.</p>
     </main>
   );
 }

@@ -5,9 +5,6 @@ export default function Navbar() {
             Dev Portfolio
         </div>
 
-        <div>
-            Navigation
-        </div>
     </nav>
   );
 }
